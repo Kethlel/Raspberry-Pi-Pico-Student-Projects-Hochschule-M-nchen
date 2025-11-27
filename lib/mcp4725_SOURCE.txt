@@ -1,0 +1,4 @@
+Datei mcp4725.py von https://github.com/wayoda/micropython-mcp4725
+
+Stand des Commits ea3df1b7c233604c87da83793ccf98dd30d96d3c vom 06.09.2016
+https://github.com/wayoda/micropython-mcp4725/blob/ea3df1b7c233604c87da83793ccf98dd30d96d3c/mcp4725.py

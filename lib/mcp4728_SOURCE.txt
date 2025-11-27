@@ -1,0 +1,4 @@
+Datei mcp4728.py von https://github.com/openfablab/mcp4728
+
+Stand des Commits ac1f03796d6304bd5c3e7e14ba56a28e68a0c1e0 vom 01.07.2020
+https://github.com/openfablab/mcp4728/blob/ac1f03796d6304bd5c3e7e14ba56a28e68a0c1e0/mcp4728.py

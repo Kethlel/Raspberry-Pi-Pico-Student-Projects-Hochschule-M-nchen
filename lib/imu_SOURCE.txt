@@ -1,0 +1,4 @@
+Datei imu.py von https://github.com/micropython-IMU/micropython-mpu9x50
+
+Stand des Commits 8a7f9823b25ca1ed2389889a73ca079c931da49f vom 10.10.2022
+https://github.com/micropython-IMU/micropython-mpu9x50/blob/8a7f9823b25ca1ed2389889a73ca079c931da49f/imu.py

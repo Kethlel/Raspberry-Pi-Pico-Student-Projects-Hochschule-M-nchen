@@ -1,0 +1,6 @@
+Datei bh1750/bh1750/__init__.py von https://github.com/PinkInk/upylib
+
+Stand des Commits 4431798395b090fcdfe2c5617456d093d1b9c14b vom 19.05.2017
+https://github.com/PinkInk/upylib/blob/4431798395b090fcdfe2c5617456d093d1b9c14b/bh1750/bh1750/__init__.py
+
+

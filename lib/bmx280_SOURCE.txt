@@ -1,0 +1,4 @@
+Datei drivers/BMX280.py von https://github.com/KitWallace/pipico
+
+Stand des Commits 413dd51237a01efdf067afa61cb422f2a50418cb vom 17.07.2022
+https://github.com/KitWallace/pipico/blob/413dd51237a01efdf067afa61cb422f2a50418cb/drivers/BMX280.py

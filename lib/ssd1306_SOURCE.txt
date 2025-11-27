@@ -1,0 +1,13 @@
+Datei micropython/drivers/display/ssd1306/ssd1306.py von https://github.com/micropython/micropython-lib
+
+Stand des Commits 8503017e3b4e552ddd8ce96c21e52e0f4e61d877 vom 06.10.2022
+https://github.com/micropython/micropython-lib/blob/8503017e3b4e552ddd8ce96c21e52e0f4e61d877/micropython/drivers/display/ssd1306/ssd1306.py
+
+
+Historie:
+
+Ist seit  06.09.2022 (Commit a5e2f3239c8023cf8d009fafa948d7f139cb87ff) hier zu finden:
+https://github.com/micropython/micropython-lib/blob/a5e2f3239c8023cf8d009fafa948d7f139cb87ff/micropython/drivers/display/ssd1306/ssd1306.py
+
+War bis v1.19.1 im micropython zu finden, wurde am 08.09.2022 aber gelöscht, weil es jetzt in micropython-lib zu finden ist.
+https://github.com/micropython/micropython/blob/v1.19.1/drivers/display/ssd1306.py
